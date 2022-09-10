@@ -1181,7 +1181,29 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	color: #A5C9CA;
 	padding-bottom: 2px;
 }
-
+.blog{
+	margin-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	padding: 20px;
+	width: 80%;
+}
+.blog h3{
+	text-align: center;
+	text-decoration-line: underline;
+	color: #2C3639;
+	font-size: 30px;
+	padding-bottom: 50px;
+}
+.blog h4{
+	color: #2C3639;
+	font-size: 25px;	
+}
+.blog p{
+	color: #2C3639;
+	font-size: 20px;	
+}
 
 /*------------------------------------*\
 	Responsive
